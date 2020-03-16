@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f18ae840-4d37-4c9d-a064-272178db8a01" name="Default Changelist" comment="" />
+    <list default="true" id="f18ae840-4d37-4c9d-a064-272178db8a01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/page82/GoodDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/page95/Battleship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scanner/AliceBob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z57kYsR3in8gt05hxPqt974PRs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,12 +32,52 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.MovieTest">
+  <component name="RunManager" selected="Application.Battleship">
+    <configuration name="AliceBob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.AliceBob" />
+      <module name="headfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Battleship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page95.Battleship" />
+      <module name="headfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page95.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodDogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page82.GoodDogTestDrive" />
+      <module name="headfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page82.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="page37.MovieTest" />
       <module name="headfirst" />
@@ -57,6 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Battleship" />
+        <item itemvalue="Application.GoodDogTestDrive" />
+        <item itemvalue="Application.AliceBob" />
         <item itemvalue="Application.MovieTest" />
         <item itemvalue="Application.ShoppingCartTester" />
       </list>
@@ -76,29 +128,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1584119594499">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1584326078613">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584119594499" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1584119594499">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584326078613" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584219931664" />
+    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1584326078613">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584119594499" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1584119594499">
+    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584326078613" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584219931664" />
+    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1584326078613">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584119594499" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1584119594499">
+    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584326078613" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584219931664" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1584326078613">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584119594499" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584326078613" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584219931664" />
     <state x="2101" y="0" key="SettingsEditor" timestamp="1584118840017">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
     <state x="2101" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584118840017" />
-    <state x="2263" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584119252426">
+    <state x="2278" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1584370761215">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="2263" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584119252426" />
+    <state x="2278" y="177" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584370761215" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584219961415" />
+    <state x="1982" y="66" key="new project wizard" timestamp="1584122727940">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="1982" y="66" key="new project wizard/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584122727940" />
+    <state x="2263" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584323916229">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2263" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1584323916229" />
   </component>
 </project>
