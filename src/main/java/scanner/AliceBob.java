@@ -8,7 +8,7 @@ public class AliceBob {
     make the Main method a recursive method.
 
     This is a counter to count how many wrong attempts */
-    static int counter = 0;
+    static int counter = 1;
     public static void main(String[] args) {
        // This is calling the method again
         repeat();

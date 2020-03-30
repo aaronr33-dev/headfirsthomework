@@ -1,4 +1,4 @@
-package page95;
+/*package page95;
 
 
 import java.util.Arrays;
@@ -18,6 +18,7 @@ public class Battleship {
         System.out.print("Enter a guess:  ");
         String guess = sc.nextLine();
 
+
         for (pets.equals(pets[i])) {
             if (guess.equalsIgnoreCase(pets[i])) {
                 System.out.println("hit");
@@ -27,3 +28,4 @@ public class Battleship {
         }
     }
 }
+*/
